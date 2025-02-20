@@ -19,7 +19,7 @@ public class PrometeoCarController : MonoBehaviour
 
     //CAR SETUP
 
-     /* [Space(20)]
+      [Space(20)]
       //[Header("CAR SETUP")]
       [Space(10)]
       [Range(20, 190)]
@@ -45,7 +45,7 @@ public class PrometeoCarController : MonoBehaviour
                                     // in the points x = 0 and z = 0 of your car. You can select the value that you want in the y axis,
                                     // however, you must notice that the higher this value is, the more unstable the car becomes.
                                     // Usually the y value goes from 0 to 1.5.
-*/
+
     //WHEELS
 
       //[Header("WHEELS")]
